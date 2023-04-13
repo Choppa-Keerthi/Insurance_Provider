@@ -7,9 +7,13 @@ My project name is Insurance Provider where I have created a User And Admin Modu
 System Requirements 
 
 IDE                  :  Python Latest Version  Pycharm inbuilt pipinstalled
+
 Data Base            :   Mysql
+
 My SQL Converter     : For connecting Pycharm With Database 
+
 Predefined Modules   : Datetime, Mysql connector
+
 Python Cocepts Used  :  Exception Handling,Loops,OOPs,Validation…
 
 
