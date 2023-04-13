@@ -16,4 +16,4 @@ Predefined Modules   : Datetime, Mysql connector
 
 Python Cocepts Used  :  Exception Handling,Loops,OOPs,Validation…
 
-
+Database used here is Insurance address = local user=root password=123456
