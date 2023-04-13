@@ -6,5 +6,5 @@ Data Base            :   Mysql
 My SQL Converter     : For connecting Pycharm With Database 
 Predefined Modules   : Datetime, Mysql connector
 Python Cocepts Used  :  Exception Handling,Loops,OOPs,Validation…
-![image](https://user-images.githubusercontent.com/130689276/231836104-b198bfba-94ab-4eec-8b59-4eb58c40a9ae.png)
+
 
